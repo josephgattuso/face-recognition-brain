@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import Navigation from './components/Navigation/Navigation';
 
 class App extends Component {
   render() {
     return (
       <div className='App'>
-        <img src={logo} alt='' width='48' />
+        <Navigation />
       </div>
     );
   }
