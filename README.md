@@ -21,7 +21,7 @@ and <a href=https://www.mongodb.com/">MongoDB</a>
 <p align="center">
   <a
     target="_blank"
-    href="https://github.com/josephgattuso/firegram/blob/master/LICENSE"
+    href="https://github.com/josephgattuso/face-recognition-brain/blob/master/LICENSE"
   >
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" />
   </a>
@@ -35,6 +35,8 @@ and <a href=https://www.mongodb.com/">MongoDB</a>
     />
   </a>
 </p>
+
+![cover](./cover.png)
 
 ## 🚀 Quick Start
 
