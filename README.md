@@ -36,6 +36,10 @@ and <a href=https://www.mongodb.com/">MongoDB</a>
   </a>
 </p>
 
+<p align="center">
+  <img src="./cover.png" alt=""/>
+</p>
+
 ## 🚀 Quick Start
 
 1. Clone this repo
