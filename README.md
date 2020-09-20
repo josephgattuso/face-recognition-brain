@@ -36,7 +36,9 @@ and <a href=https://www.mongodb.com/">MongoDB</a>
   </a>
 </p>
 
-![cover](./cover.png)
+<p align="center">
+  <img src="./cover.png" alt=""/>
+</p>
 
 ## 🚀 Quick Start
 
