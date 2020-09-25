@@ -25,9 +25,6 @@
     ]
   },
   "dependencies": {
-    "@testing-library/jest-dom": "^5.11.4",
-    "@testing-library/react": "^11.0.4",
-    "@testing-library/user-event": "^12.1.5",
     "clarifai": "^2.9.1",
     "dotenv": "^8.2.0",
     "react": "^16.13.1",
@@ -38,6 +35,6 @@
     "tachyons": "^4.12.0"
   },
   "devDependencies": {
-    "prettier": "^2.1.2"
+    "prettier": "2.1.2"
   }
 }
