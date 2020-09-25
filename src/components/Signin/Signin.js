@@ -20,7 +20,7 @@ class Signin extends Component {
   onSubmitSignIn = () => {
     console.log(this.state);
     this.props.onRouteChange('home');
-    fetch('http://localhost:3000/signin', {
+    fetch('https://gattuso-smart-brain-api.herokuapp.com/signin', {
       method: 'post',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
