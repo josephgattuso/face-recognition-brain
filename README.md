@@ -3,7 +3,7 @@
     <img
       src="./brain.png"
       width="100"
-      alt=""
+      alt="brain"
     />
     <br />
     Smart Brain
@@ -14,7 +14,7 @@
   <em>
     A face recognition app built with
     <a href="https://reactjs.org/">React</a>
-and <a href=https://www.mongodb.com/">MongoDB</a>
+and <a href=https://www.postgresql.org/">Postgres</a>
   </em>
 </p>
 
@@ -37,10 +37,10 @@ and <a href=https://www.mongodb.com/">MongoDB</a>
 </p>
 
 <p align="center">
-  <img src="./cover.png" alt=""/>
+  <img src="./cover.png" alt="Mona Lisa"/>
 </p>
 
-## 🚀 Quick Start
+## 🚀 Getting started
 
 1. Clone this repo
 2. Run `npm install`

@@ -1,6 +1,8 @@
 {
   "name": "face-recognition-brain",
   "version": "0.1.0",
+  "author": "Joseph Gattuso <joseph.gattuso@gmail.com>",
+  "description": "A face recognition app built with React and Postgres",
   "private": true,
   "scripts": {
     "start": "serve -s build",
