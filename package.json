@@ -31,7 +31,7 @@
     "dotenv": "^8.2.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-particles-js": "^3.3.0",
+    "react-particles-js": "^3.4.0",
     "react-scripts": "3.4.3",
     "react-tilt": "^0.1.4",
     "serve": "11.3.2",
